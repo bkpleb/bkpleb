@@ -1,3 +1,1 @@
-### hey there 
-
-contributing to things i find interesting :3 
+contributing to things i find interesting, mainly crypto infra stuff :3 
